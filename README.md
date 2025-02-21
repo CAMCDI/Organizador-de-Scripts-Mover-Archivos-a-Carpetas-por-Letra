@@ -70,5 +70,3 @@ Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:
 
 Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
 ```
-
-Este README es una descripción detallada de cómo funciona el script, cómo instalarlo, usarlo y cómo contribuir al proyecto. ¡Espero que te sirva!
