@@ -1,4 +1,4 @@
-¡Claro! Aquí tienes un README completo en un solo mensaje:
+b¡Claro! Aquí tienes un README completo en un solo mensaje:
 
 ```markdown
 # Organizador de Scripts
